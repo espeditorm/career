@@ -55,3 +55,18 @@ Conferidas em 30/09/2026 via API/página de cada plataforma.
 | BTG Pactual | Senior Product Designer, Investimentos | Híbrido 3x/semana na Faria Lima |
 | Inter | Product Designer Senior (Inter Shop) | Presencial em SP ou BH |
 | BRQ | Product Designer Senior SP e Web/UI/Design Systems | Híbrido em SP |
+
+## 3ª rodada (30/09/2026): descartadas
+
+| Empresa | Vaga | Motivo |
+|---|---|---|
+| Chess.com | Senior Product Designer, Connect | Contrata só nos EUA |
+| Tabby | Senior Product Designer, B2B Lifecycle | Só Sérvia, Armênia, Geórgia, Polônia e Espanha |
+| Prism Studio | Lead UX/UI Designer | Estúdio de games, só Europa |
+| Music.AI (Moises) | Senior Product Designer | Exige experiência prática como produtor musical |
+| Darkroom | Senior Designer | Agência de marketing (marca/performance), fora do perfil |
+| BAI Capital | Senior Designer | US$ 2.000/mês e design de marketing |
+| Revun | Senior Product Designer | US$ 24–36k/ano, abaixo do piso |
+| Platform Science | Sr. Product Designer | Híbrido em Londrina |
+| Deel | Staff PD Growth / Senior PD Growth-Website | Exigem experiência forte em CRO e testes A/B |
+| Customer.io | Principal Product Designer | Nível acima do alvo (a vaga Senior está em `01_VAGAS/15_...`) |

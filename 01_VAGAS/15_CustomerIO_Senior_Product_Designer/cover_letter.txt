@@ -1,0 +1,14 @@
+Hi Matt and the Customer.io design team,
+
+I'm applying for the Senior Product Designer role because you describe design the way I practice it: flows over screens, systems over one-offs, and ownership that doesn't stop at handoff.
+
+For the past eight years I've designed products where complexity is the default. At Integritas I design and specify digital banking features for US credit unions and a Brazilian federal bank: Open Finance, PIX, lending, payments and account management. Because I also work as a Business Analyst, my deliverables include the states, edge cases and acceptance criteria that engineers build from, and I stay through implementation and UAT to catch regressions before users do.
+
+Before that, as UX Tribe Lead at Intmed, I rolled out a discovery process across 10 squads and built the design system for six medical products, which cut design time by about 30%. The emergency triage system I designed there now runs in more than 150 hospitals.
+
+AI is part of my daily workflow. I explore directions with Google Stitch and Figma Make and build working prototypes with Claude Code, Codex or Google AI Studio when behavior matters more than pixels. I'm comfortable with HTML/CSS and keen to contribute closer to production code.
+
+I work from Brazil (GMT-3) with US teams every day. My portfolio is at studiodito.co, and I'd be glad to walk you through it.
+
+Best,
+Espedito Roza
