@@ -24,7 +24,7 @@ RH: **R$ 23.000 CLT + benefícios**. Se a proposta ficar abaixo de R$ 20.400 de 
 antes de recusar.
 
 ## Arquivos para anexar
-- Currículo: `00_BASE/curriculo/Espedito_Roza_Product_Designer_Senior_PT.pdf` (vaga em português)
+- Currículo: `01_VAGAS/04_XP_Product_Design_Senior_Fundos_Previdencia/Espedito_Roza_Product_Designer_Senior.pdf` (versão ajustada para esta vaga)
 - Não há campo de carta de apresentação.
 
 ## Passo a passo do formulário
@@ -38,7 +38,7 @@ antes de recusar.
 | E-mail | ✱ | espedito.mesquita@gmail.com |
 | Telefone | ✱ | +55 85 99973-3272 |
 | Localização (campo com autocomplete) | ✱ | Fortaleza, Ceará, Brazil (escolha a opção sugerida) |
-| Currículo/CV | ✱ | anexe `Espedito_Roza_Product_Designer_Senior_PT.pdf` (a opção "colar texto" é alternativa; não precisa das duas) |
+| Currículo/CV | ✱ | anexe `Espedito_Roza_Product_Designer_Senior.pdf` (desta pasta) (a opção "colar texto" é alternativa; não precisa das duas) |
 | Insira aqui o link do seu perfil no LinkedIn | ✱ | https://www.linkedin.com/in/espeditoroza |
 | Qual é o seu CPF? (formato 123.456.789-10) | ✱ | **preencha você** (não está nos arquivos) |
 | Qual é o seu estado de residência atual? | não | **Ceará (CE)** |
@@ -64,7 +64,7 @@ antes de recusar.
 |---|---|---|
 | Você conhece alguém que trabalha na XP? | não | **No (Não)** |
 | Se sim, quem você conhece? | não | (em branco) |
-| No passado, você já participou de outro processo seletivo da XP Inc. para uma vaga similar a essa? | ✱ | **No** (troque para Yes se já tiver participado) |
+| No passado, você já participou de outro processo seletivo da XP Inc. para uma vaga similar a essa? | ✱ | **No** (confirmado: você nunca participou) |
 | Atualmente, você trabalha como agente autônomo em algum escritório vinculado à XP Inc.? | ✱ | **No** |
 | Quais canais você costuma utilizar para se manter informado sobre oportunidades de carreira? | não | **Linkedin da companhia** |
 | Consentimento para IA transcrever a entrevista | ✱ | **Yes** (não afeta o processo se escolher No) |

@@ -20,7 +20,7 @@ saúde e odontológico, seguro de vida, stock options após 6 meses, banco de ho
 **salário bruto mensal em R$**: vai **23000** (CLT).
 
 ## Arquivos para anexar
-- Currículo: `00_BASE/curriculo/Espedito_Roza_Senior_Product_Designer_EN.pdf`
+- Currículo: `01_VAGAS/03_Docplanner_Feegow_Senior_Product_Designer/Espedito_Roza_Senior_Product_Designer.pdf` (versão ajustada para esta vaga)
   (a vaga e o formulário estão em inglês)
 - Não há campo de carta de apresentação.
 
@@ -30,7 +30,7 @@ saúde e odontológico, seguro de vida, stock options após 6 meses, banco de ho
 |---|---|---|
 | Name | ✱ | Espedito Roza |
 | Email | ✱ | espedito.mesquita@gmail.com |
-| Resume | ✱ | `Espedito_Roza_Senior_Product_Designer_EN.pdf` |
+| Resume | ✱ | `Espedito_Roza_Senior_Product_Designer.pdf` (desta pasta) |
 | Portifolio Link | ✱ | https://studiodito.co |
 | What is one digital product you've worked on that you're particularly proud of? In one sentence, tell us what you changed. | ✱ | ver abaixo |
 | What is your English level? | ✱ | **C1 (Advanced English)** |

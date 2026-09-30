@@ -4,7 +4,7 @@
 - **Página da vaga:** https://jobs.ashbyhq.com/truelogic/67d7f84b-7cbd-4a33-ba5f-6147328deb0b
 - **Plataforma:** Ashby (uma página só)
 - **Validada em:** 30/09/2026 (aberta)
-- **Prioridade:** 🟡 MÉDIA
+- **Prioridade:** 🟡 MÉDIA-ALTA
 
 > A vaga antiga da Truelogic (Advertising, short-term) fechou. Esta é nova e permanente (full-time).
 > Existe a mesma vaga com local "São Paulo" (`dda0f8ec...`); use a de **LatAm**, que é onde você está.
@@ -18,14 +18,15 @@ Pagamento em **USD**, 100% remoto.
 **Por que combina:** 5+ anos, fluxos enterprise complexos com regras de negócio, papéis e permissões,
 parceria próxima com PM e engenharia, comunicar trade-offs a stakeholders.
 
-**⚠️ Gap:** a vaga exige **protótipos funcionais feitos com ferramentas de código com IA** (Cursor, Claude
-Code, Google AI Studio). Seu currículo cita HTML/CSS, Python e "AI-assisted workflows", mas não essas
-ferramentas. Se você já usa alguma, vale mencionar na entrevista; se não, esta vaga fica atrás das outras.
+**Requisito de IA (atendido):** a vaga exige protótipos funcionais feitos com ferramentas de código com IA
+(Cursor, Claude Code, Google AI Studio). Você usa Claude Code, OpenAI Codex, Google AI Studio, Google Stitch e
+Figma Make; o currículo desta pasta já destaca isso no resumo e em "AI:". Na entrevista, tenha um protótipo
+funcional seu para mostrar, porque eles pedem portfólio com protótipos codados.
 
 **Salário:** não publicado ("highly competitive USD pay"). Pretensão, se perguntarem: **US$ 5,500/mês**.
 
 ## Arquivos para anexar
-- Currículo: `00_BASE/curriculo/Espedito_Roza_Senior_Product_Designer_EN.pdf`
+- Currículo: `01_VAGAS/05_Truelogic_Senior_Product_Designer/Espedito_Roza_Senior_Product_Designer.pdf` (versão ajustada para esta vaga)
 - Não há campo de carta de apresentação.
 
 ## Passo a passo do formulário (página única)
@@ -34,7 +35,7 @@ ferramentas. Se você já usa alguma, vale mencionar na entrevista; se não, est
 |---|---|---|
 | Name | ✱ | Espedito Roza |
 | Email | ✱ | espedito.mesquita@gmail.com |
-| Resume | ✱ | `Espedito_Roza_Senior_Product_Designer_EN.pdf` |
+| Resume | ✱ | `Espedito_Roza_Senior_Product_Designer.pdf` (desta pasta) |
 | Phone number | ✱ | +55 85 99973-3272 |
 | LinkedIn Profile | ✱ | https://www.linkedin.com/in/espeditoroza |
 | Website, portfolio, GitHub or others | não | https://studiodito.co |

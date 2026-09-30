@@ -38,6 +38,7 @@ daquela vaga. Use este arquivo só se aparecer uma pergunta que não estava prev
 | English level | Fluent / Full professional (C1) |
 | Spanish level | Professional working (B2) |
 | How did you hear about us? | LinkedIn (ou "Company careers page") |
+| AI tools | Claude, Claude Code, OpenAI Codex, ChatGPT, Gemini, NotebookLM, Google AI Studio, Google Stitch, Figma Make |
 
 ## 2. Salário (piso definido: US$ 4.000/mês)
 
@@ -115,8 +116,10 @@ about tokens, clear documentation (Zeroheight) and components that engineers act
 ### How do you use AI in your design work?
 I use AI to speed up the parts that don't need my judgment: synthesizing research notes, drafting
 edge-case lists and acceptance criteria, generating content variations and quick prototypes to test
-ideas. I also teach in an AI extension course at the Federal University of Ceará, so I spend time
-thinking about where AI helps users and where it just adds noise.
+ideas. My current tools are Claude, ChatGPT and Gemini for thinking and writing, NotebookLM for
+research, Claude Code, OpenAI Codex and Google AI Studio for coded prototypes, and Google Stitch and
+Figma Make for fast UI exploration. I also teach in an AI extension course at the Federal University
+of Ceará, so I spend time thinking about where AI helps users and where it just adds noise.
 
 ### How do you measure success of a design?
 I agree on the metric before designing: task success, time on task, conversion, support tickets,

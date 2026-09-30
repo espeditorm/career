@@ -22,7 +22,7 @@ se candidatar mesmo sem cumprir todos os requisitos.
 **Salário:** não publicado. Pretensão, se perguntarem depois: **US$ 5,500/mês**.
 
 ## Arquivos para anexar
-- Currículo: `00_BASE/curriculo/Espedito_Roza_Senior_Product_Designer_EN.pdf`
+- Currículo: `01_VAGAS/06_UPLabs_Vantora_Sr_Product_Designer/Espedito_Roza_Senior_Product_Designer.pdf` (versão ajustada para esta vaga)
 - Não há campo de carta nem de portfólio no formulário. Como a vaga pede portfólio, o link
   studiodito.co já está no cabeçalho do currículo.
 
@@ -36,7 +36,7 @@ se candidatar mesmo sem cumprir todos os requisitos.
 | LinkedIn URL | ✱ | https://www.linkedin.com/in/espeditoroza |
 | Phone number | ✱ | +55 85 99973-3272 |
 | Location | ✱ | Fortaleza, Ceará, Brazil |
-| Resume | ✱ | `Espedito_Roza_Senior_Product_Designer_EN.pdf` |
+| Resume | ✱ | `Espedito_Roza_Senior_Product_Designer.pdf` (desta pasta) |
 
 No fim há dois botões: **Apply without saving** (só esta vaga) ou **Apply and save** (cria perfil na Gem
 para outras vagas). Qualquer um serve.

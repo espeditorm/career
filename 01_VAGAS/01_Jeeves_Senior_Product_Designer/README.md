@@ -19,18 +19,18 @@ produto ir ao ar. Diferencial listado: português + inglês (+ espanhol), que vo
 **Salário:** não publicado. Empresa bem capitalizada (US$ 380M+ captados); faixa para sênior no Brasil
 tende a ficar acima do piso. Responda a pretensão do banco de respostas (abaixo).
 
-**Ponto de atenção:** eles pedem para *mostrar* como você usa IA (não só citar ferramentas). Vale ter um
-exemplo pronto no portfólio ou para a entrevista.
+**Ponto de atenção:** eles pedem para *mostrar* como você usa IA (não só citar ferramentas). Leve um
+exemplo real (ex.: um protótipo feito com Claude Code/AI Studio) para a entrevista.
 
 ## Arquivos para anexar
-- Currículo: `00_BASE/curriculo/Espedito_Roza_Senior_Product_Designer_EN.pdf`
+- Currículo: `01_VAGAS/01_Jeeves_Senior_Product_Designer/Espedito_Roza_Senior_Product_Designer.pdf` (versão ajustada para esta vaga)
 - Não há campo de carta de apresentação.
 
 ## Passo a passo do formulário (página única)
 
 | Campo | Obrigatório | Resposta |
 |---|---|---|
-| Resume/CV | não (mas anexe) | `Espedito_Roza_Senior_Product_Designer_EN.pdf` |
+| Resume/CV | não (mas anexe) | `Espedito_Roza_Senior_Product_Designer.pdf` (desta pasta) |
 | Full name | ✱ | Espedito Roza |
 | Email | ✱ | espedito.mesquita@gmail.com |
 | Phone | não | +55 85 99973-3272 |
@@ -75,18 +75,18 @@ I'm targeting US$ 5,500/month (about US$ 66k/year) as a full-time contractor, an
 
 **6. Explain your current AI usage capability. What tools are you using and how are you leveraging AI to reduce manual, repetitive work so that more time can be spent on strategic and human-facing priorities? Please explain in detail.**
 ```
-I use AI for the parts of the work that don't need my judgment, so I can spend more time with users, PMs and engineers.
+I use AI for the parts of the work that don't need my judgment, so I can spend more time with users, PMs and engineers. My current stack is Claude, ChatGPT and Gemini for thinking and writing, NotebookLM for research, Claude Code, OpenAI Codex and Google AI Studio for coded prototypes, and Google Stitch and Figma Make for fast UI exploration.
 
-Research: I use it to organize and synthesize interview and usability-test notes into themes, which I then review and correct against the raw notes. It speeds up the first pass, but the conclusions are still mine.
+Research: I load interview and usability-test notes into NotebookLM or Claude to get a first synthesis into themes, then I review and correct it against the raw notes. It speeds up the first pass, but the conclusions are still mine.
 
-Specs and documentation: a big part of my job at Integritas is writing user stories, acceptance criteria and edge-case scenarios for banking flows. I use AI to draft edge-case lists and acceptance criteria from a flow, then I check them against the business rules. It catches cases I would have found later in UAT.
+Specs and documentation: a big part of my job at Integritas is writing user stories, acceptance criteria and edge-case scenarios for banking flows. I use Claude and ChatGPT to draft edge-case lists and acceptance criteria from a flow, then I check them against the business rules. It catches cases I would otherwise find later in UAT.
 
-Content and exploration: I generate content variations and quick prototypes to test more directions early, before investing in high fidelity.
+Exploration and prototyping: I use Google Stitch and Figma Make to test more layout and content directions early, and Claude Code, Codex or Google AI Studio to turn a concept into a working prototype when static screens aren't enough to show states and interactions.
 
 I also teach in the AI extension course at the Federal University of Ceará, so I think a lot about where AI actually helps users and where it adds noise. In financial products that means being careful with trust and explainability: showing why the system suggested something and keeping a human in the loop for decisions that move money.
 ```
-> ⚠️ Antes de enviar, acrescente o nome das ferramentas que você realmente usa (ex.: ChatGPT, Claude,
-> Figma AI, etc.). Não coloquei nomes porque não estão no seu currículo.
+> Ferramentas citadas conforme você informou em 30/09/2026. Tenha um exemplo real de cada uso pronto
+> para mostrar na entrevista (eles pedem para mostrar, não só citar).
 
 ### Final
 - Marque o captcha (hCaptcha) se aparecer e clique em **Submit application**.

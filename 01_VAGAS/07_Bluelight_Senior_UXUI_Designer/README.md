@@ -16,14 +16,14 @@ apps mobile e sites desktop, inglês avançado. Benefícios: salário competitiv
 equipamento, cobertura de saúde, horário flexível, remoto. Salário não publicado.
 
 ## Arquivos para anexar
-- Currículo: `00_BASE/curriculo/Espedito_Roza_Senior_Product_Designer_EN.pdf`
+- Currículo: `01_VAGAS/07_Bluelight_Senior_UXUI_Designer/Espedito_Roza_Senior_Product_Designer.pdf` (versão ajustada para esta vaga)
 - Não há campo de carta.
 
 ## Passo a passo do formulário (página única)
 
 | Campo | Obrigatório | Resposta |
 |---|---|---|
-| Resume/CV | ✱ | `Espedito_Roza_Senior_Product_Designer_EN.pdf` |
+| Resume/CV | ✱ | `Espedito_Roza_Senior_Product_Designer.pdf` (desta pasta) |
 | Full name | ✱ | Espedito Roza |
 | Email | ✱ | espedito.mesquita@gmail.com |
 | Phone | não | +55 85 99973-3272 |

@@ -20,7 +20,7 @@ comuns; vagas com cliente dos EUA e inglês fluente pagam mais. Por isso o formu
 CLT** (acima do piso de R$ 20.400). Se na triagem a faixa for menor que R$ 20.400, dá para recusar cedo.
 
 ## Arquivos para anexar
-- Currículo: `00_BASE/curriculo/Espedito_Roza_Senior_Product_Designer_EN.pdf`
+- Currículo: `01_VAGAS/02_CIandT_Senior_Product_Designer/Espedito_Roza_Senior_Product_Designer.pdf` (versão ajustada para esta vaga)
 - Não há campo de carta de apresentação.
 
 ## Passo a passo do formulário (página única)
@@ -29,7 +29,7 @@ CLT** (acima do piso de R$ 20.400). Se na triagem a faixa for menor que R$ 20.40
 | Campo | Obrigatório | Resposta |
 |---|---|---|
 | LinkedIn profile (botão "Apply with LinkedIn") | não | pode ignorar |
-| Resume/CV | ✱ | `Espedito_Roza_Senior_Product_Designer_EN.pdf` |
+| Resume/CV | ✱ | `Espedito_Roza_Senior_Product_Designer.pdf` (desta pasta) |
 | Full name | ✱ | Espedito Roza |
 | Pronouns | não | (deixe em branco) |
 | Email | ✱ | espedito.mesquita@gmail.com |
