@@ -1,6 +1,8 @@
 # Candidaturas: Espedito Roza
 
-## Painel de vagas prontas (validadas em 30/09/2026) · 15 vagas, todas 100% remotas
+**Guia completo para leitura (passo a passo com todos os links):** https://claude.ai/code/artifact/c25908c2-cddc-4989-9d00-6d7ddd86e31d
+
+## Painel de vagas prontas (validadas em 30/09/2026) · 9 vagas com respostas exatas, todas 100% remotas
 
 Critério: **só remoto**, com **preferência por empresas de fora**. Cada pasta tem o link, o currículo ajustado
 para a vaga e **todas as respostas do formulário**. Tabela na ordem sugerida de envio.
@@ -8,28 +10,19 @@ para a vaga e **todas as respostas do formulário**. Tabela na ordem sugerida de
 | Ordem | Prioridade | Vaga | Empresa | Salário | Onde se candidata | Enviada? |
 |---|---|---|---|---|---|---|
 | 1 | 🔥 Alta | [Customer.io: Senior Product Designer](01_VAGAS/15_CustomerIO_Senior_Product_Designer/README.md) | 🌎 EUA, remoto Américas | **US$ 171–193k/ano** | Greenhouse | [ ] |
-| 2 | 🔥 Alta | [Deel: Staff Product Designer](01_VAGAS/16_Deel_Staff_Product_Designer/README.md) | 🌎 Global, remoto Brasil | **US$ 72–150k/ano** | site da Deel | [ ] |
 | 3 | 🔥 Alta | [Jeeves: Senior Product Designer](01_VAGAS/01_Jeeves_Senior_Product_Designer/README.md) | 🌎 EUA, fintech de pagamentos | Não publicado; pedir US$ 5.500/mês | Lever | [ ] |
-| 4 | 🔥 Alta | [Transcenda: Lead Product Designer](01_VAGAS/17_Transcenda_Lead_Product_Designer/README.md) | 🌎 EUA, consultoria (finanças/regulado) | Não publicado | LinkedIn Easy Apply | [ ] |
 | 5 | 🔥 Alta | [Labrynth: Senior Product Designer](01_VAGAS/09_Labrynth_Senior_Product_Designer/README.md) | 🌎 EUA/Austrália, IA para regulação | Pedir US$ 66–80k/ano | Ashby | [ ] |
 | 6 | 🟡 Média-alta | [Circle: Lead Product Designer](01_VAGAS/10_Circle_Lead_Product_Designer/README.md) | 🌎 Global, "Anywhere" | **US$ 140–170k/ano** | Ashby (+ carta) | [ ] |
 | 7 | 🟡 Média-alta | [Truelogic: Senior Product Designer](01_VAGAS/05_Truelogic_Senior_Product_Designer/README.md) | 🌎 EUA, pago em USD | Não publicado | Ashby | [ ] |
-| 8 | 🟡 Média | [Tether: Senior Product Designer (Wallets)](01_VAGAS/19_Tether_Senior_Product_Designer_Wallets/README.md) | 🌎 Global (cripto/stablecoin) | Estimado US$ 115–138k | Recruitee (**vídeo; sem IA nas respostas**) | [ ] |
-| 9 | 🟡 Média | [RootstockLabs: Senior Product Designer](01_VAGAS/18_RootstockLabs_Senior_Product_Designer/README.md) | 🌎 Europa/Am. do Sul (fintech Bitcoin) | Não publicado | Greenhouse | [ ] |
-| 10 | 🟡 Média | [ecoPortal: Senior Product Designer](01_VAGAS/20_ecoPortal_Senior_Product_Designer/README.md) | 🌎 Nova Zelândia (horário NZ) | Não publicado | LinkedIn Easy Apply | [ ] |
 | 11 | 🟡 Média | [UP.Labs/Vantora: Sr Product Designer](01_VAGAS/06_UPLabs_Vantora_Sr_Product_Designer/README.md) | 🌎 EUA | Não publicado | Gem | [ ] |
 | 12 | 🟡 Média | [CI&T: Senior Product Designer, Brazil](01_VAGAS/02_CIandT_Senior_Product_Designer/README.md) | 🇧🇷 CLT, cliente dos EUA | Pedir R$ 23.000 | Lever | [ ] |
 | 13 | 🟡 Média | [Docplanner/Feegow: Senior Product Designer](01_VAGAS/03_Docplanner_Feegow_Senior_Product_Designer/README.md) | 🇧🇷 CLT, healthtech | Pedir R$ 23.000 | Ashby | [ ] |
-| 14 | 🔵 Baixa-média | [Magentrix: Senior UX Designer](01_VAGAS/21_Magentrix_Senior_UX_Designer/README.md) | 🌎 Canadá | Não publicado (pode ser baixo) | LinkedIn Easy Apply | [ ] |
 | 15 | 🔵 Baixa | [Bluelight: Senior UX/UI Designer](01_VAGAS/07_Bluelight_Senior_UXUI_Designer/README.md) | 🌎 EUA | Não publicado | Lever | [ ] |
 
-### Antes de enviar, só você pode fazer
-- **Tether:** gravar o vídeo (até 2 min) e escrever as 2 respostas abertas **com suas palavras** (a empresa proíbe
-  IA; deixei só tópicos de fatos) e decidir o salário anual em USD.
-- **RootstockLabs:** colocar os links exatos dos cases do portfólio e completar os trechos entre colchetes.
-- **Jeeves:** conferir se a resposta sobre IA reflete seu uso real.
-- **LinkedIn Easy Apply (Transcenda, ecoPortal, Magentrix):** as perguntas só aparecem logado; deixei as respostas
-  das perguntas mais comuns em cada pasta.
+### Fora do painel
+- **Easy Apply do LinkedIn (só link):** Transcenda, ecoPortal, Magentrix e Ascendum (links no guia).
+- **Sem respostas exatas:** Deel (listas do formulário não confirmadas), Tether (proíbe IA, pede vídeo) e
+  RootstockLabs (pede cases e decisões que não estão nos arquivos). As pastas continuam em `01_VAGAS/`.
 
 ### Currículos
 Cada pasta de vaga tem o **seu próprio currículo** (`Espedito_Roza_Senior_Product_Designer.pdf`) com título, resumo e competências ajustados às palavras-chave
