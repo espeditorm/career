@@ -37,3 +37,9 @@ Conferidas em 30/09/2026 via API/página de cada plataforma.
 | GoFasti | Senior Product Designer | US$ 2.500–3.000/mês, abaixo do piso de US$ 4.000 |
 | Jobgether | Lead Brand and Product Designer | US$ 15–20/hora (≈ US$ 2.600–3.500/mês), abaixo do piso |
 | XP Inc. | Product Design Pleno/Júnior (várias) | Senioridade abaixo do alvo |
+| Circle | Lead Product Designer, Marketplace | A vaga exclui explicitamente quem vem de ferramentas internas/CMS/growth; exige experiência em marketplace de consumo (a vaga "Core" da Circle está em `01_VAGAS/10_...`) |
+| BTG Pactual | Designer Senior (Banco PAN) | Design gráfico para campanhas, social e CRM; fora do cargo-alvo |
+| Jobgether | Senior Product Designer, Brazil (7e32dffa) | Mesma vaga da CI&T (crédito imobiliário) republicada por intermediário; candidate-se direto na CI&T |
+| RD Station | Product Designer Sênior (8041286002, 8074788002) | 404, fechadas |
+| Yuno | Lead Product Designer | Só Europa |
+| Nubank | Senior/Staff/Principal Product Designer (EUA) | Miami/Palo Alto, exige morar nos EUA |

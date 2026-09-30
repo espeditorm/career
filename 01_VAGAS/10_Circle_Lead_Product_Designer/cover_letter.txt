@@ -1,0 +1,14 @@
+Hi Circle team,
+
+I'm applying for the Lead Product Designer role because the way you describe the work is the way I like to work: own an area, frame the problem, set the direction and ship, with prototypes doing a lot of the talking.
+
+Most of my career has been in products where several kinds of users share the same flow. At Intmed I designed an emergency triage system now used in more than 150 hospitals, where doctors, managers and patients all depend on the same screens. As UX Tribe Lead there, I rolled out a discovery process across 10 squads and set the design process for the company. Today, at Integritas, I design and specify digital banking for US credit unions and a Brazilian federal bank, balancing member needs against business and regulatory rules.
+
+AI is part of how I design, not an add-on. I explore directions in Google Stitch and Figma Make, and when a flow needs real states I build working prototypes with Claude Code, Codex or Google AI Studio before anyone writes production code.
+
+Circle also connects to something personal. I co-founded Re.tifica, a social startup that helps trans people through legal name and gender rectification, and I teach UX/UI to cohorts of about 20 students. Community and education are close to my heart.
+
+I work from Brazil (GMT-3) and collaborate async with US teams every day. I'd love to show you my work at studiodito.co.
+
+Best,
+Espedito Roza
