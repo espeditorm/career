@@ -1,37 +1,30 @@
 # Candidaturas: Espedito Roza
 
-## Painel de vagas prontas (validadas em 30/09/2026) · 12 vagas
+## Painel de vagas prontas (validadas em 30/09/2026) · 8 vagas, todas 100% remotas
 
-Cada pasta tem o link direto, o arquivo para anexar e **todas as respostas do formulário** prontas para
-copiar. Ordem sugerida de envio = prioridade.
+Critério atual: **só remoto** (nada presencial ou híbrido), com **preferência por empresas de fora**.
+Cada pasta tem o link direto, o arquivo para anexar e **todas as respostas do formulário** prontas para copiar.
+A tabela está na ordem sugerida de envio.
 
-| # | Prioridade | Empresa / vaga | Onde | Salário | Anexar | Enviada? |
+| Ordem | Prioridade | Empresa / vaga | Empresa | Salário | Anexar | Enviada? |
 |---|---|---|---|---|---|---|
-| 1 | 🔥 Alta | [Jeeves: Senior Product Designer](01_VAGAS/01_Jeeves_Senior_Product_Designer/README.md) | Remoto Brasil (fintech global, pagamentos) | Não publicado; pedir US$ 5.500/mês | CV próprio | [ ] |
-| 2 | 🔥 Alta | [CI&T: Senior Product Designer, Brazil](01_VAGAS/02_CIandT_Senior_Product_Designer/README.md) | Remoto Brasil, cliente dos EUA (crédito imobiliário) | CLT não publicado; pedir R$ 23.000 | CV próprio | [ ] |
-| 3 | 🔥 Alta | [Docplanner/Feegow: Senior Product Designer](01_VAGAS/03_Docplanner_Feegow_Senior_Product_Designer/README.md) | Remoto Brasil (healthtech) | CLT não publicado; pedir R$ 23.000 | CV próprio | [ ] |
-| 4 | 🟡 Média | [XP: Product Design Sênior, Fundos e Previdência](01_VAGAS/04_XP_Product_Design_Senior_Fundos_Previdencia/README.md) | São Paulo, presencial flexível (exige mudança) | CLT + PLR, não publicado | CV próprio (PT) | [ ] |
-| 5 | 🟡 Média-alta | [Truelogic: Senior Product Designer](01_VAGAS/05_Truelogic_Senior_Product_Designer/README.md) | Remoto LATAM, USD (SaaS construção civil) | Não publicado | CV próprio | [ ] |
-| 6 | 🟡 Média | [UP.Labs/Vantora: Sr Product Designer](01_VAGAS/06_UPLabs_Vantora_Sr_Product_Designer/README.md) | Remoto LATAM (venture studio) | Não publicado | CV próprio | [ ] |
-| 7 | 🔵 Baixa | [Bluelight: Senior UX/UI Designer](01_VAGAS/07_Bluelight_Senior_UXUI_Designer/README.md) | Remoto LATAM (consultoria EUA) | Não publicado | CV próprio | [ ] |
-| 8 | 🔥 Alta | [Nubank: Lead Product Designer, Lending (INSS)](01_VAGAS/08_Nubank_Lead_Product_Designer_Lending/README.md) | Híbrido 2x/sem SP, Campinas ou RJ (exige mudança; Nubank ajuda) | CLT + equity; pedir BRL 26.000 | CV próprio | [ ] |
-| 9 | 🔥 Alta | [Labrynth: Senior Product Designer](01_VAGAS/09_Labrynth_Senior_Product_Designer/README.md) | Remoto LATAM (IA para regulação/govtech) | Não publicado; pedir US$ 66–80k/ano | CV próprio | [ ] |
-| 10 | 🟡 Média-alta | [Circle: Lead Product Designer](01_VAGAS/10_Circle_Lead_Product_Designer/README.md) | Remoto "Anywhere" | **US$ 140–170k/ano** + equity | CV próprio + carta | [ ] |
-| 12 | 🟡 Média | [BTG Pactual: Senior Product Designer, Investimentos](01_VAGAS/12_BTG_Senior_Product_Designer_Investimentos/README.md) | Híbrido 3x/sem Faria Lima SP (exige mudança) | CLT + PLR, não publicado | CV próprio (PT) | [ ] |
-| 14 | 🔵 Baixa | [Inter: Product Designer Senior](01_VAGAS/14_Inter_Product_Designer_Senior/README.md) | Presencial SP ou BH (exige mudança) | Não publicado; provável abaixo do piso | CV próprio (PT) | [ ] |
+| 1 | 🔥 Alta | [Jeeves: Senior Product Designer](01_VAGAS/01_Jeeves_Senior_Product_Designer/README.md) | 🌎 EUA (fintech global, pagamentos), remoto Brasil | Não publicado; pedir US$ 5.500/mês | CV próprio | [ ] |
+| 2 | 🔥 Alta | [Labrynth: Senior Product Designer](01_VAGAS/09_Labrynth_Senior_Product_Designer/README.md) | 🌎 EUA/Austrália (IA para regulação/govtech), remoto LATAM | Não publicado; pedir US$ 66–80k/ano | CV próprio | [ ] |
+| 3 | 🟡 Média-alta | [Circle: Lead Product Designer](01_VAGAS/10_Circle_Lead_Product_Designer/README.md) | 🌎 Global, remoto "Anywhere" | **US$ 140–170k/ano** + equity | CV próprio + carta | [ ] |
+| 4 | 🟡 Média-alta | [Truelogic: Senior Product Designer](01_VAGAS/05_Truelogic_Senior_Product_Designer/README.md) | 🌎 EUA (cliente SaaS), remoto LATAM, pago em USD | Não publicado | CV próprio | [ ] |
+| 5 | 🟡 Média | [UP.Labs/Vantora: Sr Product Designer](01_VAGAS/06_UPLabs_Vantora_Sr_Product_Designer/README.md) | 🌎 EUA (venture studio), remoto LATAM | Não publicado | CV próprio | [ ] |
+| 6 | 🟡 Média | [CI&T: Senior Product Designer, Brazil](01_VAGAS/02_CIandT_Senior_Product_Designer/README.md) | 🇧🇷 CI&T (CLT), alocado em cliente dos EUA, remoto | CLT não publicado; pedir R$ 23.000 | CV próprio | [ ] |
+| 7 | 🟡 Média | [Docplanner/Feegow: Senior Product Designer](01_VAGAS/03_Docplanner_Feegow_Senior_Product_Designer/README.md) | 🇧🇷 Docplanner Brasil (CLT), 100% remoto | CLT não publicado; pedir R$ 23.000 | CV próprio | [ ] |
+| 8 | 🔵 Baixa | [Bluelight: Senior UX/UI Designer](01_VAGAS/07_Bluelight_Senior_UXUI_Designer/README.md) | 🌎 EUA (consultoria), remoto LATAM | Não publicado | CV próprio | [ ] |
 
-### Antes de enviar, só você pode preencher
-- **CPF:** XP, BTG e Inter.
-- **BTG:** faixa da remuneração anterior (ou "Não gostaria de informar") e bandeira do VR/VA (ou "Não possuo").
-- **Inter:** salário atual e benefícios atuais (obrigatórios).
-- **Nubank:** confirme que não participou de processo seletivo do Nubank nos últimos 6 meses.
+> CI&T e Docplanner são remotas, mas a contratação é CLT no Brasil; por isso ficaram depois das estrangeiras.
 
-### Ordem sugerida de envio
-Jeeves → Nubank → CI&T → Labrynth → Docplanner → Circle → Truelogic → XP → BTG → UP.Labs → Inter → Bluelight
+### Antes de enviar
+- Nenhum formulário das 8 pede CPF ou salário atual.
+- **Jeeves:** confira se a resposta sobre uso de IA reflete o seu dia a dia real.
 
 ### Currículos
-Cada pasta de vaga tem o **seu próprio currículo** (`Espedito_Roza_Senior_Product_Designer.pdf`, ou
-`Espedito_Roza_Product_Designer_Senior.pdf` na XP) com título, resumo e competências ajustados às palavras-chave
+Cada pasta de vaga tem o **seu próprio currículo** (`Espedito_Roza_Senior_Product_Designer.pdf`) com título, resumo e competências ajustados às palavras-chave
 da vaga. A experiência é a mesma em todos (só fatos do currículo base). Todas as versões têm a linha **AI:**
 com as ferramentas que você usa. O DOCX editável está ao lado do PDF.
 
@@ -46,8 +39,8 @@ com as ferramentas que você usa. O DOCX editável está ao lado do PDF.
 - 26 leads da primeira busca: **21 fechados ou pausados** (lista com motivo em `03_DESCARTADAS.md`), 2 com pendência (Workana e BRQ), 3 continuam abertos
   (Docplanner, UP.Labs, Bluelight) e 3 empresas tinham vaga nova no lugar da antiga (CI&T, XP, Truelogic).
 - Nova busca achou a **Jeeves**.
-- 2ª rodada (varredura das APIs de ~250 empresas + busca web): mais **7 vagas**; Cobre (exigia espanhol nativo) e Consensys (mercado de previsão/apostas) foram removidas a seu pedido, ficando **5** (08, 09, 10, 12, 14).
-- `02_LEADS_A_VALIDAR.md`: pendências (Workana, BRQ sem salário, Blacksmith, Neon).
+- 2ª rodada (varredura das APIs de ~250 empresas + busca web): mais 7 vagas. Removidas a seu pedido: Cobre (espanhol nativo), Consensys (apostas) e todas as presenciais/híbridas (XP, Nubank, BTG, Inter). Ficaram Labrynth e Circle.
+- `02_LEADS_A_VALIDAR.md`: pendências (Workana, Blacksmith, Neon, BRQ remoto).
 
 ## Base
 - `00_BASE/curriculo/`: currículo em **inglês** e **português** (PDF para enviar, DOCX para editar).

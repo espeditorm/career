@@ -45,3 +45,13 @@ Conferidas em 30/09/2026 via API/página de cada plataforma.
 | Nubank | Senior/Staff/Principal Product Designer (EUA) | Miami/Palo Alto, exige morar nos EUA |
 | Cobre | Senior Product Designer (pagamentos B2B, LATAM) | Exige **espanhol nativo** (critério: descartar) |
 | Consensys / MetaMask | Lead Product Designer, Prediction Markets | Produto de **mercado de previsão/apostas esportivas** (critério: descartar; apostas proibidas no Brasil) |
+
+## Presenciais ou híbridas (critério: só remoto)
+
+| Empresa | Vaga | Modelo |
+|---|---|---|
+| XP Inc. | Product Design Sênior, Fundos Abertos e Previdência | Presencial flexível em SP |
+| Nubank | Lead Product Designer, Lending (INSS) | Híbrido 2x/semana (SP, Campinas ou RJ) |
+| BTG Pactual | Senior Product Designer, Investimentos | Híbrido 3x/semana na Faria Lima |
+| Inter | Product Designer Senior (Inter Shop) | Presencial em SP ou BH |
+| BRQ | Product Designer Senior SP e Web/UI/Design Systems | Híbrido em SP |

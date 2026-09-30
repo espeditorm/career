@@ -7,7 +7,8 @@ arquivos e enviar. O Claude **não envia** candidaturas (exige login/ação dele
 - Fonte do perfil: `00_BASE/curriculo/*.pdf` e `00_BASE/respostas_padrao.md` (não inventar fatos,
   métricas ou histórias que não estejam lá).
 - Cargos: Senior Product Designer, Senior UX Designer, Senior UI Designer (e UX/UI sênior).
-- Local: remoto para empresa de fora aceitando Brasil/LATAM, **ou** São Paulo (remoto/híbrido/presencial).
+- Local: **somente remoto**. Nada presencial ou híbrido. Preferência: empresa de fora aceitando Brasil/LATAM;
+  remoto em empresa brasileira fica em prioridade menor.
 - Descartar vagas que exijam **espanhol nativo** e vagas de **casas de apostas, bets, apostas esportivas ou
   mercados de previsão** (proibidas no Brasil). Registrar em `03_DESCARTADAS.md`.
 - Salário mínimo: **US$ 4.000/mês** (≈ R$ 20.400 com US$1 = R$5,10). Descartar vagas abaixo e registrar em `03_DESCARTADAS.md` com o motivo.

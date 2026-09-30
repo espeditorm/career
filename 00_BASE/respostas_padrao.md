@@ -10,8 +10,8 @@ daquela vaga. Use este arquivo só se aparecer uma pergunta que não estava prev
 | Item | Padrão que usei | Se for diferente, troque aqui |
 |---|---|---|
 | Aviso prévio / disponibilidade | **30 dias** (30 days) | |
-| Modelo de contratação aceito | **Contractor/PJ ou via EOR (Deel, Remote.com etc.)**; CLT para vagas em SP | |
-| Mudança para São Paulo | **Sim, aberto a relocação para SP** (só vale para vagas híbridas/presenciais em SP) | |
+| Modelo de contratação aceito | **Contractor/PJ ou via EOR (Deel, Remote.com etc.)**; CLT só para vagas brasileiras 100% remotas | |
+| Mudança de cidade / trabalho presencial | **Não**: só vagas 100% remotas | |
 | Perguntas de diversidade (EEO, gênero, raça etc.) | **"Prefiro não informar / Decline to self-identify"** | |
 | Precisa de visto para trabalhar nos EUA? | **Não trabalho nos EUA; trabalho remoto do Brasil, sem necessidade de sponsorship** | |
 
@@ -68,7 +68,7 @@ Câmbio de referência: US$ 1 ≈ R$ 5,10 (PTAX, set/2026). **US$ 4.000 ≈ R$ 2
 | Can you work as an independent contractor? | **Yes** |
 | Do you have a company (CNPJ) to invoice? | **Yes** / Sim (se ainda não tiver, troque por "I can open one before starting") |
 | Willing to work US business hours (partial overlap)? | **Yes** |
-| Willing to relocate to São Paulo? | **Yes** |
+| Willing to relocate / work on-site? | **No** (remote only) |
 | Do you have a reliable internet connection and home office? | **Yes** |
 | Background check consent | **Yes** |
 
@@ -136,7 +136,7 @@ happy to walk you through any of them. I work comfortably in English with US tea
 
 ---
 
-## 5. Respostas abertas (PT, para vagas brasileiras em SP)
+## 5. Respostas abertas (PT, para vagas brasileiras remotas)
 
 ### Fale sobre você
 Sou Product Designer Sênior com mais de 8 anos de experiência em produtos de setores regulados e
