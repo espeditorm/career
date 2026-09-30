@@ -34,7 +34,7 @@ com as ferramentas que você usa. O DOCX editável está ao lado do PDF.
   Se na triagem a faixa vier abaixo de US$ 4.000 / R$ 20.400, dá para encerrar ali.
 - **Truelogic** exige protótipos funcionais feitos com IA (Claude Code, AI Studio): você usa essas ferramentas,
   então tenha um protótipo seu para mostrar na entrevista.
-- Cartas prontas: Circle (PDF para anexar) e Customer.io (texto para colar).
+- Cartas prontas em PDF, no mesmo visual do currículo: Customer.io e Circle.
 
 ## Resultado da validação
 - 26 leads da primeira busca: **21 fechados ou pausados** (lista com motivo em `03_DESCARTADAS.md`), 2 com pendência (Workana e BRQ), 3 continuam abertos

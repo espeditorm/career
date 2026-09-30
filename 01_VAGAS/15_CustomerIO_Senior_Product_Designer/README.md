@@ -24,7 +24,7 @@ Case + Case Review (60 min) → background check.
 
 ## Arquivos para anexar
 - Currículo: `01_VAGAS/15_CustomerIO_Senior_Product_Designer/Espedito_Roza_Senior_Product_Designer.pdf`
-- Carta (opcional, recomendo): cole o texto de `cover_letter.txt` desta pasta no campo "Cover Letter" (opção de digitar).
+- Carta (opcional, recomendo): anexe `Espedito_Roza_Cover_Letter.pdf` desta pasta no campo "Cover Letter" (mesmo visual do currículo).
 
 ## Passo a passo do formulário (página única)
 
@@ -36,7 +36,7 @@ Case + Case Review (60 min) → background check.
 | Phone | ✱ | +55 85 99973-3272 |
 | Location (autocomplete) | ✱ | Fortaleza, Ceará, Brazil |
 | Resume/CV | ✱ | `Espedito_Roza_Senior_Product_Designer.pdf` (desta pasta) |
-| Cover Letter | não | texto de `cover_letter.txt` |
+| Cover Letter | não | anexar `Espedito_Roza_Cover_Letter.pdf` (desta pasta) |
 | What is your preferred first and last name? | ✱ | Espedito Roza (ou "Dito Roza", se preferir) |
 | How did your hear about this job? | ✱ | Himalayas (job board) |
 | Tell us why you're interested in this position. | ✱ | ver abaixo |
