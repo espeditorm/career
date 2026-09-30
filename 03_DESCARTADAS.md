@@ -43,3 +43,5 @@ Conferidas em 30/09/2026 via API/página de cada plataforma.
 | RD Station | Product Designer Sênior (8041286002, 8074788002) | 404, fechadas |
 | Yuno | Lead Product Designer | Só Europa |
 | Nubank | Senior/Staff/Principal Product Designer (EUA) | Miami/Palo Alto, exige morar nos EUA |
+| Cobre | Senior Product Designer (pagamentos B2B, LATAM) | Exige **espanhol nativo** (critério: descartar) |
+| Consensys / MetaMask | Lead Product Designer, Prediction Markets | Produto de **mercado de previsão/apostas esportivas** (critério: descartar; apostas proibidas no Brasil) |

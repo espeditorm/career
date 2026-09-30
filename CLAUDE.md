@@ -8,6 +8,8 @@ arquivos e enviar. O Claude **não envia** candidaturas (exige login/ação dele
   métricas ou histórias que não estejam lá).
 - Cargos: Senior Product Designer, Senior UX Designer, Senior UI Designer (e UX/UI sênior).
 - Local: remoto para empresa de fora aceitando Brasil/LATAM, **ou** São Paulo (remoto/híbrido/presencial).
+- Descartar vagas que exijam **espanhol nativo** e vagas de **casas de apostas, bets, apostas esportivas ou
+  mercados de previsão** (proibidas no Brasil). Registrar em `03_DESCARTADAS.md`.
 - Salário mínimo: **US$ 4.000/mês** (≈ R$ 20.400 com US$1 = R$5,10). Descartar vagas abaixo e registrar em `03_DESCARTADAS.md` com o motivo.
 - Pontos fortes para destacar: banking/fintech (Open Finance, PIX, crédito, credit unions EUA),
   healthtech (triagem em 150+ hospitais), gov/segurança pública, design system, BA/especificação,
