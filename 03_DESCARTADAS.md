@@ -70,3 +70,24 @@ Conferidas em 30/09/2026 via API/página de cada plataforma.
 | Platform Science | Sr. Product Designer | Híbrido em Londrina |
 | Deel | Staff PD Growth / Senior PD Growth-Website | Exigem experiência forte em CRO e testes A/B |
 | Customer.io | Principal Product Designer | Nível acima do alvo (a vaga Senior está em `01_VAGAS/15_...`) |
+
+## Remessa Jobgether (06/10/2026): descartadas
+
+| Empresa | Vaga | Motivo |
+|---|---|---|
+| Tempo | Senior Product Designer - Agent+ | Salário fixo de US$ 40k/ano, abaixo do piso |
+| Yendo | Senior Product Designer | Só EUA (time nacional, 401K) |
+| Alpaca | Senior Product Designer, Operations Tools | Agora "Remote - North America", contrato de 12 meses |
+| Epoch AI | Design Lead / Head of Design | Gestão de time + respostas abertas que proíbem uso de IA |
+| Squadformers (Aligned) | Senior Product Designer | Formulário fora do ar (página não encontrada) |
+| Valtech (Kin + Carta) | UX Designer Senior | Fechada (404) |
+| Rwazi | Senior Product Designer | Formulário com várias redações sobre resultados e referências que dependem de você |
+| beehiiv | Senior Product Designer, Growth | Exige histórico em experimentação/testes A/B |
+| Grupo TECDATA | Senior Product Designer | Vaga em espanhol |
+| trophi.ai | Senior Product Designer | Games/B2C |
+| Huzzle | Senior Product Designer | Nível pleno (2–5 anos) |
+| Remote Office | Senior UI/UX Designer | Contrato temporário, exige Bubble |
+| Funded.club (Windscribe) | Senior UX Designer | Formulário não localizado (link quebrado) |
+| Fluency Academy | Senior Product Designer | Inscrições encerradas (Gupy) |
+| Dentsu Brasil, Zapay, Igma | Product/UX Designer Sênior | Empresas brasileiras com Gupy/Quickin: etapas após o cadastro não visíveis |
+

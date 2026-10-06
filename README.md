@@ -19,6 +19,17 @@ para a vaga e **todas as respostas do formulário**. Tabela na ordem sugerida de
 | 13 | 🟡 Média | [Docplanner/Feegow: Senior Product Designer](01_VAGAS/03_Docplanner_Feegow_Senior_Product_Designer/README.md) | 🇧🇷 CLT, healthtech | Pedir R$ 23.000 | Ashby | [ ] |
 | 15 | 🔵 Baixa | [Bluelight: Senior UX/UI Designer](01_VAGAS/07_Bluelight_Senior_UXUI_Designer/README.md) | 🌎 EUA | Não publicado | Lever | [ ] |
 
+## Remessa Jobgether (06/10/2026) · 4 vagas com respostas exatas
+
+Buscadas só na Jobgether (o botão "Apply" de lá leva ao formulário oficial da empresa, que foi validado).
+
+| Ordem | Prioridade | Vaga | Empresa | Salário | Onde se candidata | Enviada? |
+|---|---|---|---|---|---|---|
+| J1 | 🔥 Alta | [Peratera: Lead Product Designer](01_VAGAS/22_Peratera_Lead_Product_Designer/README.md) | 🌎 Reino Unido, fintech de pagamentos | Não publicado | Personio | [ ] |
+| J2 | 🔥 Alta | [Aleph: Staff Product Designer](01_VAGAS/23_Aleph_Staff_Product_Designer/README.md) | 🌎 EUA, dados financeiros (FP&A) | **US$ 110–280k/ano** | Ashby | [ ] |
+| J3 | 🔥 Alta | [Alternative Payments: Senior Product Designer](01_VAGAS/24_AlternativePayments_Senior_Product_Designer/README.md) | 🌎 EUA, fintech B2B | **US$ 60–84k/ano** | Ashby (+ portfólio PDF) | [ ] |
+| J4 | 🔵 Baixa-média | [Arco Educação: SR Product Designer](01_VAGAS/25_Arco_Educacao_SR_Product_Designer/README.md) | 🇧🇷 Educação, remoto | Não publicado | Greenhouse | [ ] |
+
 ### Fora do painel
 - **Easy Apply do LinkedIn (só link):** Transcenda, ecoPortal, Magentrix e Ascendum (links no guia).
 - **Sem respostas exatas:** Deel (listas do formulário não confirmadas), Tether (proíbe IA, pede vídeo) e
