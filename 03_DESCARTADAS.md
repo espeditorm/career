@@ -90,4 +90,4 @@ Conferidas em 30/09/2026 via API/página de cada plataforma.
 | Funded.club (Windscribe) | Senior UX Designer | Formulário não localizado (link quebrado) |
 | Fluency Academy | Senior Product Designer | Inscrições encerradas (Gupy) |
 | Dentsu Brasil, Zapay, Igma | Product/UX Designer Sênior | Empresas brasileiras com Gupy/Quickin: etapas após o cadastro não visíveis |
-
+| Arco Educação | SR Product Designer | Removida a seu pedido (empresa brasileira) |
