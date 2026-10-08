@@ -158,3 +158,17 @@ workshops e pesquisa com médicos, gestores e o time de produto, redesenhei e re
 especifiquei as funcionalidades para que a engenharia avançasse sem adivinhação, o que também
 encurtou nossas sprints. Hoje o sistema roda em mais de 150 hospitais, e os componentes criados para
 ele viraram a base do design system de seis produtos médicos.
+
+---
+
+## 6. Saídas curtas (Wipro e SSPDS), informado por você em 08/10/2026
+
+### EN
+At the Public Security Secretariat I left after a few months because I received an offer from a larger company, Wipro, and I wanted to move into the private sector.
+
+At Wipro my contract ended. After I delivered the redesign of Crediamigo, Brazil's largest microcredit program, I was moved to Agroamigo, the rural microcredit project, but there wasn't much design work left to do there, so I moved on to Intmed. There I stayed almost three years and was promoted to UX Tribe Lead after seven months.
+
+### PT
+Na SSPDS saí após alguns meses porque recebi uma proposta de uma empresa maior, a Wipro, e queria ir para o setor privado.
+
+Na Wipro meu contrato foi encerrado. Depois de entregar o redesenho do Crediamigo, o maior programa de microcrédito do Brasil, fui realocado para o Agroamigo, o projeto de microcrédito rural, mas havia pouco trabalho de design ali, então segui para a Intmed, onde fiquei quase três anos e fui promovido a UX Tribe Lead em sete meses.
