@@ -172,3 +172,14 @@ At Wipro my contract ended. After I delivered the redesign of Crediamigo, Brazil
 Na SSPDS saí após alguns meses porque recebi uma proposta de uma empresa maior, a Wipro, e queria ir para o setor privado.
 
 Na Wipro meu contrato foi encerrado. Depois de entregar o redesenho do Crediamigo, o maior programa de microcrédito do Brasil, fui realocado para o Agroamigo, o projeto de microcrédito rural, mas havia pouco trabalho de design ali, então segui para a Intmed, onde fiquei quase três anos e fui promovido a UX Tribe Lead em sete meses.
+
+## 7. Liderança do time de design (informado por você em 08/10/2026)
+Empresa a confirmar: rituais e aprendizado entre pares assumidos como Intmed (UX Tribe Lead);
+avaliação heurística assumida como SSPDS (o currículo diz "Led two designers in heuristic evaluations").
+
+- **Rituais do time:** criou reuniões de setor em que cada designer contava o que estava acontecendo na sua área, para alinhar o time e reaproveitar soluções entre squads.
+- **Aprendizado entre pares:** criou um momento em que cada designer ensinava algo (ferramenta, método, técnica) e os outros aprendiam.
+- **Avaliação heurística:** liderou a avaliação heurística da interface para mapear quais fluxos deveriam mudar primeiro no redesign.
+
+### EN
+I created rituals for the design team: sector meetings where each designer shared what was happening in their area, so we stayed aligned and reused solutions across squads, and a peer learning session where each designer taught something they were good at. I also led a heuristic evaluation of the interface to map which flows should change first in the redesign.
