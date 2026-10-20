@@ -44,3 +44,12 @@ The Emergency Triage System for Hapvida, now used in 150+ hospitals: I replaced 
 
 ### Final
 - Clique em **Submit Application**. Não há perguntas de diversidade neste formulário.
+
+## Resultado (20/10/2026): não avançou após a entrevista com o recrutador
+Feedback do André (Docplanner Hiring Team), resumido:
+- **Pontos positivos:** o design system, a colaboração com devs, testar fluxos com clínicos e a redução do tempo de entrega de design.
+- **Lacuna principal:** *product ownership* e pensamento estratégico. Faltou evidência de como você identifica e prioriza problemas sozinho, liga decisões de design a resultados de negócio e usa métricas claras para medir sucesso.
+- **Também faltou:** detalhe da evidência por trás de uma recomendação que contrariou o pedido inicial do cliente, e de como você influenciou a decisão final.
+- **Recomendação deles:** usar exemplos que mostrem como você identificou um problema, decidiu a prioridade, influenciou stakeholders e mediu o impacto.
+
+Ver `00_BASE/respostas_padrao.md`, seção 8 (como ajustar as próximas entrevistas).

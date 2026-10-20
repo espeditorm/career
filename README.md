@@ -16,7 +16,7 @@ para a vaga e **todas as respostas do formulário**. Tabela na ordem sugerida de
 | 7 | 🟡 Média-alta | [Truelogic: Senior Product Designer](01_VAGAS/05_Truelogic_Senior_Product_Designer/README.md) | 🌎 EUA, pago em USD | Não publicado | Ashby | [ ] |
 | 11 | 🟡 Média | [UP.Labs/Vantora: Sr Product Designer](01_VAGAS/06_UPLabs_Vantora_Sr_Product_Designer/README.md) | 🌎 EUA | Não publicado | Gem | [ ] |
 | 12 | 🟡 Média | [CI&T: Senior Product Designer, Brazil](01_VAGAS/02_CIandT_Senior_Product_Designer/README.md) | 🇧🇷 CLT, cliente dos EUA | Pedir R$ 23.000 | Lever | [ ] |
-| 13 | 🟡 Média | [Docplanner/Feegow: Senior Product Designer](01_VAGAS/03_Docplanner_Feegow_Senior_Product_Designer/README.md) | 🇧🇷 CLT, healthtech | Pedir R$ 23.000 | Ashby | [ ] |
+| 13 | ❌ Encerrada | [Docplanner/Feegow: Senior Product Designer](01_VAGAS/03_Docplanner_Feegow_Senior_Product_Designer/README.md) | 🇧🇷 CLT, healthtech | Pedir R$ 23.000 | Ashby | [x] Reprovado após entrevista (20/10/2026) |
 | 15 | 🔵 Baixa | [Bluelight: Senior UX/UI Designer](01_VAGAS/07_Bluelight_Senior_UXUI_Designer/README.md) | 🌎 EUA | Não publicado | Lever | [ ] |
 
 ## Remessa Jobgether (06/10/2026) · 3 vagas com respostas exatas

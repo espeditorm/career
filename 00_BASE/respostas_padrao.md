@@ -183,3 +183,18 @@ avaliação heurística assumida como SSPDS (o currículo diz "Led two designers
 
 ### EN
 I created rituals for the design team: sector meetings where each designer shared what was happening in their area, so we stayed aligned and reused solutions across squads, and a peer learning session where each designer taught something they were good at. I also led a heuristic evaluation of the interface to map which flows should change first in the redesign.
+
+## 8. Lições da Docplanner (feedback de 20/10/2026) para as próximas entrevistas
+O recrutador quer ver um **dono de produto**, não só quem executa requisitos. Em cada história, deixe claro:
+1. **Como você achou o problema** (dado, pesquisa, ticket, avaliação heurística), e não "me pediram".
+2. **Por que ele era prioridade** (gravidade × frequência, impacto × esforço, o que ficou de fora e por quê).
+3. **Como você convenceu as pessoas** (qual evidência levou, quem resistia, o que mudou na decisão).
+4. **Qual métrica você mediu antes e depois**, e o resultado para o negócio (tempo, conversão, chamados de suporte, receita, adoção).
+
+Histórias que já têm esse formato com fatos do currículo: avaliação heurística na SSPDS (priorização), discovery nos 10 squads
+(~25% de time-to-market), design system (~30% menos tempo de design), triagem da Hapvida (150+ hospitais).
+**Falta:** uma história em que você contrariou o pedido do cliente com evidência e mudou a decisão, com números.
+Escreva essa com fatos reais (Integritas é o melhor lugar para procurar).
+
+⚠️ **Consistência:** o feedback cita "Apia" e "quase 50%" de redução no tempo de entrega. O currículo fala em Intmed e ~30%.
+Use sempre os mesmos nomes e números do currículo, ou atualize o currículo se o número real for outro.
