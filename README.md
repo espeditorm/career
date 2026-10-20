@@ -22,12 +22,12 @@ Critério: **só remoto**, de preferência empresa de fora. Cada pasta tem o lin
 | N6 | 🟡 Média | [Perry Street (SCRUFF/Jack'd): Senior UI/UX Designer](01_VAGAS/35_PerryStreet_Senior_UIUX_Designer/README.md) | 🌎 EUA, 100% remoto global | Não publicado | Zoho (+ carta) | [ ] |
 | N7 | 🟡 Média | [GX2: UI/UX Designer Sênior (diferencial: saúde)](01_VAGAS/30_GX2_UIUX_Designer_Senior/README.md) | 🇧🇷 consultoria, PJ | Pedir R$ 26.000 PJ | InHire | [ ] |
 | N8 | 🟡 Média | [Clicksign: Product Designer, IA e Inovação](01_VAGAS/29_Clicksign_Product_Designer_IA/README.md) | 🇧🇷 assinatura eletrônica, CLT | Pedir R$ 23.000 | Gupy (sem testes) | [ ] |
-| N9 | 🟡 Média | [Gringo & Zapay: Product Designer Sênior](01_VAGAS/33_Gringo_Zapay_Product_Designer_Senior/README.md) | 🇧🇷 app para motoristas, CLT | Pedir R$ 23.000 | LinkedIn Easy Apply | [ ] |
-| N10 | 🔵 Média-baixa | [Objective: Product Designer UI/UX SR (projeto de 3 meses)](01_VAGAS/34_Objective_Product_Designer_UIUX_SR/README.md) | 🇧🇷/🇺🇸 consultoria, PJ ou CLT | Pedir R$ 26k PJ | LinkedIn Easy Apply | [ ] |
+| N9 | 🟡 Média | [Gringo & Zapay: Product Designer Sênior](01_VAGAS/33_Gringo_Zapay_Product_Designer_Senior/README.md) | 🇧🇷 app para motoristas, CLT | Pedir R$ 23.000 | [Gupy](https://gringoezapay.gupy.io/jobs/12392692) (sem testes, até 31/10) · ou LinkedIn | [ ] |
+| N10 | 🔵 Média-baixa | [Objective: Product Designer UI/UX SR (projeto de 3 meses)](01_VAGAS/34_Objective_Product_Designer_UIUX_SR/README.md) | 🇧🇷/🇺🇸 consultoria, PJ | Pedir R$ 26k PJ | [InHire](https://objective.inhire.app/vagas/3366dab1-0a5a-4fd5-af8e-9c9bfcabf78b/product-designer-ui-ux-sr-ingles-fluente-remoto) · ou LinkedIn | [ ] |
 | N11 | 🔵 Baixa | [Zuri: Product Designer Sênior (investimentos)](01_VAGAS/31_Zuri_Product_Designer_Senior/README.md) | 🇧🇷 investimentos, CLT | Pedir R$ 23.000 | Quickin | [ ] |
 
-> Easy Apply (Radix, Gringo e Objective): as perguntas extras só aparecem para quem está logado no LinkedIn. Cada pasta traz as respostas das
-> perguntas mais comuns. Perry Street tem uma 2ª etapa ("Assessment") que só abre depois do captcha. As respostas prováveis estão na pasta.
+> Gringo & Zapay e Objective também têm formulário próprio (Gupy e InHire), com todos os campos respondidos. A Radix só existe no LinkedIn (Easy Apply):
+> as perguntas extras só aparecem logado, e a pasta traz as respostas das perguntas mais comuns. Perry Street tem uma 2ª etapa ("Assessment") que só abre depois do captcha. As respostas prováveis estão na pasta.
 
 ### Remessas anteriores que continuam abertas
 | Ordem | Prioridade | Vaga | Empresa | Salário | Onde se candidata | Enviada? |

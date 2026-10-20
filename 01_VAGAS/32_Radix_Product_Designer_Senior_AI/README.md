@@ -1,7 +1,7 @@
 # Radix: Product Designer Sênior | AI Prototyping · 100% remoto (Brasil)
 
 - **Link direto (Easy Apply do LinkedIn):** https://www.linkedin.com/jobs/view/4475429570
-- **Plataforma:** LinkedIn (Candidatura simplificada). Conferi o site de vagas da Radix (InHire) e esta vaga não está lá, só no LinkedIn.
+- **Plataforma:** LinkedIn (Candidatura simplificada). **Só existe no LinkedIn:** conferi a página de vagas da Radix (InHire), a Gupy e os agregadores. O único outro anúncio ([Mercado de TI](https://mercadodeti.com.br/vagas/2016-senior-product-designer)) manda de volta para o mesmo link do LinkedIn.
 - **Validada em:** 20/10/2026 (aberta; mais de 200 candidatos)
 - **Prioridade:** 🟡 Média-alta
 
