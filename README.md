@@ -2,37 +2,44 @@
 
 **Guia completo para leitura (passo a passo com todos os links):** https://claude.ai/code/artifact/c25908c2-cddc-4989-9d00-6d7ddd86e31d
 
-## Painel de vagas prontas (validadas em 30/09/2026) · 9 vagas com respostas exatas, todas 100% remotas
+## Painel de vagas abertas (revalidado em 20/10/2026) · todas 100% remotas e com respostas exatas
 
-Critério: **só remoto**, com **preferência por empresas de fora**. Cada pasta tem o link, o currículo ajustado
-para a vaga e **todas as respostas do formulário**. Tabela na ordem sugerida de envio.
+Critério: **só remoto**, de preferência empresa de fora. Cada pasta tem o link, o currículo ajustado para a vaga e
+**todas as respostas do formulário**. Tabela na ordem sugerida de envio.
 
+### Remessa nova (20/10/2026)
 | Ordem | Prioridade | Vaga | Empresa | Salário | Onde se candidata | Enviada? |
 |---|---|---|---|---|---|---|
-| 1 | 🔥 Alta | [Customer.io: Senior Product Designer](01_VAGAS/15_CustomerIO_Senior_Product_Designer/README.md) | 🌎 EUA, remoto Américas | **US$ 171–193k/ano** | Greenhouse | [ ] |
-| 3 | 🔥 Alta | [Jeeves: Senior Product Designer](01_VAGAS/01_Jeeves_Senior_Product_Designer/README.md) | 🌎 EUA, fintech de pagamentos | Não publicado; pedir US$ 5.500/mês | Lever | [ ] |
-| 5 | 🔥 Alta | [Labrynth: Senior Product Designer](01_VAGAS/09_Labrynth_Senior_Product_Designer/README.md) | 🌎 EUA/Austrália, IA para regulação | Pedir US$ 66–80k/ano | Ashby | [ ] |
-| 6 | 🟡 Média-alta | [Circle: Lead Product Designer](01_VAGAS/10_Circle_Lead_Product_Designer/README.md) | 🌎 Global, "Anywhere" | **US$ 140–170k/ano** | Ashby (+ carta) | [ ] |
-| 7 | 🟡 Média-alta | [Truelogic: Senior Product Designer](01_VAGAS/05_Truelogic_Senior_Product_Designer/README.md) | 🌎 EUA, pago em USD | Não publicado | Ashby | [ ] |
-| 11 | 🟡 Média | [UP.Labs/Vantora: Sr Product Designer](01_VAGAS/06_UPLabs_Vantora_Sr_Product_Designer/README.md) | 🌎 EUA | Não publicado | Gem | [ ] |
-| 12 | 🟡 Média | [CI&T: Senior Product Designer, Brazil](01_VAGAS/02_CIandT_Senior_Product_Designer/README.md) | 🇧🇷 CLT, cliente dos EUA | Pedir R$ 23.000 | Lever | [ ] |
-| 13 | ❌ Encerrada | [Docplanner/Feegow: Senior Product Designer](01_VAGAS/03_Docplanner_Feegow_Senior_Product_Designer/README.md) | 🇧🇷 CLT, healthtech | Pedir R$ 23.000 | Ashby | [x] Reprovado após entrevista (20/10/2026) |
-| 15 | 🔵 Baixa | [Bluelight: Senior UX/UI Designer](01_VAGAS/07_Bluelight_Senior_UXUI_Designer/README.md) | 🌎 EUA | Não publicado | Lever | [ ] |
+| N1 | 🔥 Alta | [PadSplit: Senior Product Designer](01_VAGAS/25_PadSplit_Senior_Product_Designer/README.md) | 🌎 EUA, marketplace de moradia; remoto América do Sul | **US$ 50–70k/ano** (contrato) | Lever | [ ] |
+| N2 | 🔥 Alta | [Truelogic: Senior Product Designer, Global Insights & Strategy](01_VAGAS/26_Truelogic_GIS_Senior_Product_Designer/README.md) | 🌎 EUA, remoto LATAM, pago em USD | Não publicado | Ashby | [ ] |
+| N3 | 🔵 Média-baixa | [Defuse Labs (near.com): Senior Product Designer, Full-Stack](01_VAGAS/27_DefuseLabs_NEAR_Senior_Product_Designer/README.md) | 🌎 Global, fintech cripto | Não publicado | Greenhouse | [ ] |
+| N4 | 🔵 Baixa | [QuintoAndar: Sr. Staff Product Designer](01_VAGAS/28_QuintoAndar_Sr_Staff_Product_Designer/README.md) | 🇧🇷 remote-first no Brasil (nível acima do alvo) | Pedir R$ 23.000 | Greenhouse | [ ] |
 
-## Remessa Jobgether (06/10/2026) · 3 vagas com respostas exatas
-
-Buscadas só na Jobgether (o botão "Apply" de lá leva ao formulário oficial da empresa, que foi validado).
-
+### Remessas anteriores que continuam abertas
 | Ordem | Prioridade | Vaga | Empresa | Salário | Onde se candidata | Enviada? |
 |---|---|---|---|---|---|---|
-| J1 | 🔥 Alta | [Peratera: Lead Product Designer](01_VAGAS/22_Peratera_Lead_Product_Designer/README.md) | 🌎 Reino Unido, fintech de pagamentos | Não publicado | Personio | [ ] |
-| J2 | 🔥 Alta | [Aleph: Staff Product Designer](01_VAGAS/23_Aleph_Staff_Product_Designer/README.md) | 🌎 EUA, dados financeiros (FP&A) | **US$ 110–280k/ano** | Ashby | [ ] |
-| J3 | 🔥 Alta | [Alternative Payments: Senior Product Designer](01_VAGAS/24_AlternativePayments_Senior_Product_Designer/README.md) | 🌎 EUA, fintech B2B | **US$ 60–84k/ano** | Ashby (+ portfólio PDF) | [ ] |
+| 1 | 🔥 Alta | [Jeeves: Senior Product Designer](01_VAGAS/01_Jeeves_Senior_Product_Designer/README.md) | 🌎 EUA, fintech de pagamentos | Não publicado; pedir US$ 5.500/mês | Lever | [ ] |
+| 2 | 🔥 Alta | [Aleph: Staff Product Designer](01_VAGAS/23_Aleph_Staff_Product_Designer/README.md) | 🌎 EUA, dados financeiros (FP&A) | **US$ 110–280k/ano** | Ashby | [ ] |
+| 3 | 🔥 Alta | [Alternative Payments: Senior Product Designer](01_VAGAS/24_AlternativePayments_Senior_Product_Designer/README.md) | 🌎 EUA, fintech B2B | **US$ 60–84k/ano** | Ashby (+ portfólio PDF) | [ ] |
+| 4 | 🟡 Média-alta | [Circle: Lead Product Designer](01_VAGAS/10_Circle_Lead_Product_Designer/README.md) | 🌎 Global, "Anywhere" | **US$ 140–170k/ano** | Ashby (+ carta) | [ ] |
+
+### Encerradas
+| Vaga | Situação |
+|---|---|
+| [Docplanner/Feegow](01_VAGAS/03_Docplanner_Feegow_Senior_Product_Designer/README.md) | ❌ Não avançou após a entrevista (20/10/2026). Feedback e lições na pasta |
+| Customer.io, Labrynth, Truelogic (Technology), UP.Labs, CI&T, Bluelight, Peratera | Fecharam até 20/10/2026 (lista em `03_DESCARTADAS.md`). As pastas ficam como histórico |
 
 ### Fora do painel
-- **Easy Apply do LinkedIn (só link):** Transcenda, ecoPortal, Magentrix e Ascendum (links no guia).
-- **Sem respostas exatas:** Deel (listas do formulário não confirmadas), Tether (proíbe IA, pede vídeo) e
-  RootstockLabs (pede cases e decisões que não estão nos arquivos). As pastas continuam em `01_VAGAS/`.
+- **Só link (Easy Apply do LinkedIn, ou Gupy/Quickin com etapas que não dá para ver antes do cadastro):**
+  - [Radix: Product Designer Sênior, AI Prototyping (remoto, inglês avançado)](https://www.linkedin.com/jobs/view/4475429570)
+  - [Gringo & Zapay: Product Designer Sênior (remoto, CLT)](https://www.linkedin.com/jobs/view/4474472891)
+  - [Objective: Product Designer UI/UX SR, inglês fluente (remoto)](https://www.linkedin.com/jobs/view/4480267114)
+  - [GX2 Tecnologia: UI/UX Designer Sênior (remoto)](https://www.linkedin.com/jobs/view/4480293664)
+  - [Clicksign: Product Designer, foco em IA e Inovação (Gupy)](https://clicksign.gupy.io/jobs/12695467)
+  - [Zuri: Product Designer Sênior, investimentos (Quickin)](https://jobs.quickin.io/gozuri/jobs/6a4c028802c66d0012b3fce9)
+  - Remessas anteriores: Transcenda, ecoPortal, Magentrix e Ascendum (links no guia)
+- **Sem respostas exatas:** Perry Street Software (SCRUFF/Jack'd; o formulário Zoho tem uma etapa "Assessment" que só aparece
+  depois do captcha, e pede carta), Deel (listas do formulário não confirmadas), Tether (proíbe IA, pede vídeo) e RootstockLabs.
 
 ### Currículos
 Cada pasta de vaga tem o **seu próprio currículo** (`Espedito_Roza_Senior_Product_Designer.pdf`) com título, resumo e competências ajustados às palavras-chave

@@ -91,3 +91,33 @@ Conferidas em 30/09/2026 via API/página de cada plataforma.
 | Fluency Academy | Senior Product Designer | Inscrições encerradas (Gupy) |
 | Dentsu Brasil, Zapay, Igma | Product/UX Designer Sênior | Empresas brasileiras com Gupy/Quickin: etapas após o cadastro não visíveis |
 | Arco Educação | SR Product Designer | Removida a seu pedido (empresa brasileira) |
+
+## Revalidação e nova busca (20/10/2026)
+
+### Fecharam desde a última conferência
+| Empresa | Vaga | Plataforma | Motivo |
+|---|---|---|---|
+| Customer.io | Senior Product Designer (8039027) | Greenhouse | 404, fechada |
+| Labrynth (Infinity Constellation) | Senior Product Designer | Ashby | Saiu do board |
+| Truelogic | Senior Product Designer - Technology | Ashby | Saiu do board (há vaga nova em `01_VAGAS/26_...`) |
+| UP.Labs / Vantora | Sr Product Designer | Gem | 404 |
+| CI&T | Senior Product Designer, Brazil | Lever | 404 |
+| Bluelight | Senior UX/UI Designer | Lever | 404 |
+| Peratera | Lead Product Designer | Personio | 404 |
+| Docplanner / Feegow | Senior Product Designer | Ashby | Você fez a entrevista e não avançou (feedback na pasta `03_...`) |
+
+### Novas vagas avaliadas e descartadas
+| Empresa | Vaga | Motivo |
+|---|---|---|
+| Carrot Fertility | Product Design Lead (US$ 145–170k) | Exige 10+ anos, app de consumo com uso diário e autorização para trabalhar nos EUA |
+| Clera | Senior Product Designer | Só Europa (até 3h do fuso CET) |
+| Calm, Cribl, SeatGeek, Current | Senior Product/UX Designer | Só EUA |
+| Open Earth Foundation | Senior Product Designer (AI Enabled) | US$ 40–50k/ano (≈ US$ 3.300–4.200/mês), maior parte abaixo do piso |
+| Zallpy Digital | Senior UI/UX Designer | R$ 2.500–5.000, abaixo do piso |
+| Truelogic | Senior Product Designer - Finance | Foco em design de marca e campanhas de marketing, fora do cargo-alvo |
+| Deel | Senior Staff Product Designer - AI | Exige liderança comprovada em produtos de IA/ML (nível e foco acima do alvo) |
+| Infomediji | Senior Product Designer | Vídeo imersivo/espacial, contrato; fora do perfil |
+| Gorin Systems | UX/UI Design Lead | Meio período |
+| Tractian | Senior Product Designer | Presencial em São Paulo |
+| Nubank, BTG Pactual, Hotmart, BEES, Avanade, FCamara, EY, FOURSYS | Várias | Presenciais ou híbridas |
+| Blacksmith Agency | Senior PD, Design Systems (várias cidades) | Já estava em leads: foco total em tokens/variáveis, site externo e teste Predictive Index; continua em `02_LEADS_A_VALIDAR.md` |
