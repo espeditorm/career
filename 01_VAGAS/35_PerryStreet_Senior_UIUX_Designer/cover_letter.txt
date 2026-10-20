@@ -1,0 +1,12 @@
+Hi Perry Street team,
+
+I'm applying for the Senior UI/UX Designer role because your apps serve a community I already design for. I co-founded Re.tifica, a social startup that helps trans people in Brazil rectify their legal name and gender. As its Lead UX Designer I ran the research and usability testing, built an accessible design system, and we reached an average SUS score of 92.5. Designing for people who expect to be judged by a system taught me that privacy, tone and small visual details decide whether someone trusts a product.
+
+Most of my 8+ years has been about turning complex flows into clear, polished UI that engineers can build. I built the Clio design system, now the UI foundation for products used in more than 150 hospitals (60+ documented components, WCAG AA), and today I evolve design systems for web and mobile banking at a US company. I define states, edge cases and specs before handoff, and I stay with engineers until the build matches the design.
+
+I also like the way you work. I've been remote for years, I run workshops and design reviews, and as UX Tribe Lead across ten squads I set up rituals so designers shared work and taught each other. Defining a visual style and helping others apply it consistently is work I enjoy.
+
+My portfolio is at studiodito.co. I'd love to show you how I'd approach the next features for SCRUFF, Jack'd and Growlr.
+
+Best,
+Espedito Roza

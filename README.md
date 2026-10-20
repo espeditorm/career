@@ -15,6 +15,20 @@ Critério: **só remoto**, de preferência empresa de fora. Cada pasta tem o lin
 | N3 | 🔵 Média-baixa | [Defuse Labs (near.com): Senior Product Designer, Full-Stack](01_VAGAS/27_DefuseLabs_NEAR_Senior_Product_Designer/README.md) | 🌎 Global, fintech cripto | Não publicado | Greenhouse | [ ] |
 | N4 | 🔵 Baixa | [QuintoAndar: Sr. Staff Product Designer](01_VAGAS/28_QuintoAndar_Sr_Staff_Product_Designer/README.md) | 🇧🇷 remote-first no Brasil (nível acima do alvo) | Pedir R$ 23.000 | Greenhouse | [ ] |
 
+### Remessa nova, parte 2 (20/10/2026): empresas brasileiras remotas e Perry Street
+| Ordem | Prioridade | Vaga | Empresa | Salário | Onde se candidata | Enviada? |
+|---|---|---|---|---|---|---|
+| N5 | 🟡 Média-alta | [Radix: Product Designer Sênior, AI Prototyping](01_VAGAS/32_Radix_Product_Designer_Senior_AI/README.md) | 🇧🇷 consultoria com clientes internacionais (indústria) | Pedir R$ 23k CLT / 26k PJ | LinkedIn Easy Apply | [ ] |
+| N6 | 🟡 Média | [Perry Street (SCRUFF/Jack'd): Senior UI/UX Designer](01_VAGAS/35_PerryStreet_Senior_UIUX_Designer/README.md) | 🌎 EUA, 100% remoto global | Não publicado | Zoho (+ carta) | [ ] |
+| N7 | 🟡 Média | [GX2: UI/UX Designer Sênior (diferencial: saúde)](01_VAGAS/30_GX2_UIUX_Designer_Senior/README.md) | 🇧🇷 consultoria, PJ | Pedir R$ 26.000 PJ | InHire | [ ] |
+| N8 | 🟡 Média | [Clicksign: Product Designer, IA e Inovação](01_VAGAS/29_Clicksign_Product_Designer_IA/README.md) | 🇧🇷 assinatura eletrônica, CLT | Pedir R$ 23.000 | Gupy (sem testes) | [ ] |
+| N9 | 🟡 Média | [Gringo & Zapay: Product Designer Sênior](01_VAGAS/33_Gringo_Zapay_Product_Designer_Senior/README.md) | 🇧🇷 app para motoristas, CLT | Pedir R$ 23.000 | LinkedIn Easy Apply | [ ] |
+| N10 | 🔵 Média-baixa | [Objective: Product Designer UI/UX SR (projeto de 3 meses)](01_VAGAS/34_Objective_Product_Designer_UIUX_SR/README.md) | 🇧🇷/🇺🇸 consultoria, PJ ou CLT | Pedir R$ 26k PJ | LinkedIn Easy Apply | [ ] |
+| N11 | 🔵 Baixa | [Zuri: Product Designer Sênior (investimentos)](01_VAGAS/31_Zuri_Product_Designer_Senior/README.md) | 🇧🇷 investimentos, CLT | Pedir R$ 23.000 | Quickin | [ ] |
+
+> Easy Apply (Radix, Gringo e Objective): as perguntas extras só aparecem para quem está logado no LinkedIn. Cada pasta traz as respostas das
+> perguntas mais comuns. Perry Street tem uma 2ª etapa ("Assessment") que só abre depois do captcha. As respostas prováveis estão na pasta.
+
 ### Remessas anteriores que continuam abertas
 | Ordem | Prioridade | Vaga | Empresa | Salário | Onde se candidata | Enviada? |
 |---|---|---|---|---|---|---|
@@ -30,16 +44,8 @@ Critério: **só remoto**, de preferência empresa de fora. Cada pasta tem o lin
 | Customer.io, Labrynth, Truelogic (Technology), UP.Labs, CI&T, Bluelight, Peratera | Fecharam até 20/10/2026 (lista em `03_DESCARTADAS.md`). As pastas ficam como histórico |
 
 ### Fora do painel
-- **Só link (Easy Apply do LinkedIn, ou Gupy/Quickin com etapas que não dá para ver antes do cadastro):**
-  - [Radix: Product Designer Sênior, AI Prototyping (remoto, inglês avançado)](https://www.linkedin.com/jobs/view/4475429570)
-  - [Gringo & Zapay: Product Designer Sênior (remoto, CLT)](https://www.linkedin.com/jobs/view/4474472891)
-  - [Objective: Product Designer UI/UX SR, inglês fluente (remoto)](https://www.linkedin.com/jobs/view/4480267114)
-  - [GX2 Tecnologia: UI/UX Designer Sênior (remoto)](https://www.linkedin.com/jobs/view/4480293664)
-  - [Clicksign: Product Designer, foco em IA e Inovação (Gupy)](https://clicksign.gupy.io/jobs/12695467)
-  - [Zuri: Product Designer Sênior, investimentos (Quickin)](https://jobs.quickin.io/gozuri/jobs/6a4c028802c66d0012b3fce9)
-  - Remessas anteriores: Transcenda, ecoPortal, Magentrix e Ascendum (links no guia)
-- **Sem respostas exatas:** Perry Street Software (SCRUFF/Jack'd; o formulário Zoho tem uma etapa "Assessment" que só aparece
-  depois do captcha, e pede carta), Deel (listas do formulário não confirmadas), Tether (proíbe IA, pede vídeo) e RootstockLabs.
+- **Só link:** Transcenda, ecoPortal, Magentrix e Ascendum (remessas anteriores, links no guia)
+- **Sem respostas exatas:** Deel (listas do formulário não confirmadas), Tether (proíbe IA, pede vídeo) e RootstockLabs.
 
 ### Currículos
 Cada pasta de vaga tem o **seu próprio currículo** (`Espedito_Roza_Senior_Product_Designer.pdf`) com título, resumo e competências ajustados às palavras-chave
