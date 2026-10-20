@@ -18,6 +18,7 @@ Pedem também alguém que ligue as decisões de design a métricas de negócio: 
 leve números (150+ hospitais, ~25% de time-to-market, ~30% menos tempo de design).
 
 **Atenção:**
+
 - Eles pedem experiência com funis de aquisição, marketplace, testes A/B e funcionalidades de IA. As respostas abaixo são honestas
   (experiência transferível). Na entrevista, mostre como você usa IA para prototipar.
 - **O LinkedIn precisa ter foto de rosto bem visível**, senão a candidatura é descartada. Confira antes de enviar.
@@ -26,6 +27,7 @@ leve números (150+ hospitais, ~25% de time-to-market, ~30% menos tempo de desig
 exercício de craft (1h30).
 
 ## Arquivos para anexar
+
 - Currículo: `01_VAGAS/25_PadSplit_Senior_Product_Designer/Espedito_Roza_Senior_Product_Designer.pdf`
 - Não há campo de carta.
 
@@ -66,6 +68,7 @@ Fall in love with the problem, not your screens. Talk to users often, and learn 
 ```
 
 Notas sobre as escolhas:
+
 - **Startup:** a opção escolhida considera a Re.tifica (startup social que você cofundou). O resto da carreira foi em empresas estabelecidas.
 - **IA, marketplace e funis:** respondi pela opção de "experiência transferível" porque o currículo não tem uma funcionalidade de IA
   lançada, um marketplace ou um funil que você tenha liderado. Se você já desenhou algo assim, troque pela opção mais forte.
@@ -73,6 +76,7 @@ Notas sobre as escolhas:
   contractor/PJ, troque por "I have significant experience working independently as a contractor and managing my own deliverables".
 
 ### Perguntas voluntárias (EEO, opcionais)
+
 | Pergunta | Resposta |
 |---|---|
 | Gender | Decline to self-identify |

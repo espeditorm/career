@@ -17,12 +17,14 @@ global: wireframes, fluxos, protótipos e UI de alta fidelidade no Figma, design
 **Atenção:** é um projeto de 3 meses e tem **live coding** (provavelmente HTML/CSS básico, que eles citam como diferencial). Pratique um pouco antes.
 
 ## Arquivos para anexar
+
 - Currículo: `01_VAGAS/34_Objective_Product_Designer_UIUX_SR/Espedito_Roza_Product_Designer_Senior.pdf`
 
 ## Passo a passo do Easy Apply (LinkedIn)
 Entre no LinkedIn, abra o link e clique em **Candidatura simplificada**. O formulário tem de 2 a 4 telas:
 
 **Tela 1: Informações de contato**
+
 | Campo | Resposta |
 |---|---|
 | E-mail | espedito.mesquita@gmail.com |

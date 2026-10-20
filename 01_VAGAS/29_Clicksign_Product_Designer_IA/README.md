@@ -23,6 +23,7 @@ cadastro, todas as etapas são conversas. A "Etapa Técnica" deve ser um case ou
 IA e as histórias da seção 8 do banco de respostas (problema → prioridade → influência → métrica).
 
 ## Arquivos para anexar
+
 - Currículo: `01_VAGAS/29_Clicksign_Product_Designer_IA/Espedito_Roza_Product_Designer_Senior.pdf`
 
 ## Passo a passo do cadastro na Gupy
@@ -33,6 +34,7 @@ Se você já tem conta na Gupy, entre com ela: o perfil é reaproveitado e basta
 **2. Currículo:** anexe o PDF desta pasta. A Gupy tenta preencher o resto sozinha; confira cada campo com a tabela abaixo.
 
 **3. Dados pessoais**
+
 | Campo | Resposta |
 |---|---|
 | Nome completo | Espedito Roza |
@@ -47,12 +49,14 @@ Se você já tem conta na Gupy, entre com ela: o perfil é reaproveitado e basta
 | Portfólio / site | https://studiodito.co |
 
 **4. Formação**
+
 | Curso | Instituição | Período | Status |
 |---|---|---|---|
 | Pós-graduação (MBA) em User Experience Design and Beyond | PUCRS | 2021 – 2022 | Concluído |
 | Bacharelado em Sistemas e Mídias Digitais | Universidade Federal do Ceará (UFC) | 2017 – 2021 | Concluído |
 
 **5. Experiências** (cargo · empresa · período · descrição para colar)
+
 - **UX Designer / Analista de Negócios Sênior** · Integritas Solutions, Inc. · abr/2025 – atual (emprego atual) ·
   `Desenho e especifico banking digital para cooperativas de crédito dos EUA e um banco federal brasileiro: Open Finance, PIX, crédito, pagamentos e gestão de conta. Escrevo histórias, critérios de aceite e casos de borda, faço handoff e acompanho a homologação. Contribuo com múltiplos design systems (web e mobile).`
 - **UX Tribe Lead (promovido de UX/UI Designer)** · Intmed Software · ago/2022 – mar/2025 ·

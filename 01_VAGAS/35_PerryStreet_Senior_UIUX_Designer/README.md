@@ -22,6 +22,7 @@ com a comunidade.
 lançado (o mais perto é o app da Polícia Rodoviária e a Re.tifica). A carta foca no que é forte.
 
 ## Arquivos para anexar
+
 - Currículo: `01_VAGAS/35_PerryStreet_Senior_UIUX_Designer/Espedito_Roza_Senior_Product_Designer.pdf`
 - **Carta (obrigatória):** `01_VAGAS/35_PerryStreet_Senior_UIUX_Designer/Espedito_Roza_Cover_Letter.pdf` (mesmo visual do currículo;
   o texto está em `cover_letter.txt`)
@@ -46,12 +47,14 @@ Feche o aviso de cookies ("Decline non-essential") e clique em **I'm interested*
 | CAPTCHA | ✱ | digite o código da imagem |
 
 **Educational Details → Add** (duas entradas):
+
 | Institute / School | Major / Department | Degree | Duration | Currently pursuing |
 |---|---|---|---|---|
 | Federal University of Ceará (UFC) | Systems and Digital Media | Bachelor's | 2017 – 2021 | No |
 | PUCRS | User Experience Design and Beyond | Postgraduate Specialization (MBA) | 2021 – 2022 | No |
 
 **Experience Details → Add** (as três mais recentes bastam; o currículo tem o resto):
+
 | Occupation / Title | Company | Duration | I currently work here | Summary |
 |---|---|---|---|---|
 | Senior UX Designer / Business Analyst | Integritas Solutions, Inc. | Apr 2025 – | Yes | Design and specify digital banking for US credit unions and a Brazilian federal bank; contribute to web and mobile design systems. |

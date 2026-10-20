@@ -17,12 +17,14 @@ pagamentos na Integritas e um produto de escala com 2 milhões+ de clientes. A v
 influência): leve as histórias da seção 8 do banco de respostas.
 
 ## Arquivos para anexar
+
 - Currículo: `01_VAGAS/33_Gringo_Zapay_Product_Designer_Senior/Espedito_Roza_Product_Designer_Senior.pdf`
 
 ## Passo a passo do Easy Apply (LinkedIn)
 Entre no LinkedIn, abra o link e clique em **Candidatura simplificada**. O formulário tem de 2 a 4 telas:
 
 **Tela 1: Informações de contato**
+
 | Campo | Resposta |
 |---|---|
 | E-mail | espedito.mesquita@gmail.com |

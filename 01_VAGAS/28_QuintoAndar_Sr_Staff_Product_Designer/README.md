@@ -18,6 +18,7 @@ influência, métricas). Só vale se você tiver as histórias da seção 8 do b
 case → entrevista de cultura e liderança → final. Eles garantem feedback para todos.
 
 ## Arquivos para anexar
+
 - Currículo: `01_VAGAS/28_QuintoAndar_Sr_Staff_Product_Designer/Espedito_Roza_Senior_Product_Designer.pdf`
 - Não há campo de carta.
 
@@ -48,6 +49,7 @@ case → entrevista de cultura e liderança → final. Eles garantem feedback pa
 | Please share the pronouns you use | não | **Prefer not to answer** (ou os seus pronomes) |
 
 ### Perguntas de diversidade (obrigatórias, todas têm "prefiro não responder")
+
 | Pergunta | Resposta |
 |---|---|
 | What is your race/ethnicity? | I don't wish to answer |

@@ -21,6 +21,7 @@ protótipos funcionais. Pedem também 5+ anos, pesquisa, testes de usabilidade e
 entretenimento, tecnologia, esportes e games, **não em apostas**. Tenha um protótipo feito com IA para mostrar na entrevista.
 
 ## Arquivos para anexar
+
 - Currículo: `01_VAGAS/26_Truelogic_GIS_Senior_Product_Designer/Espedito_Roza_Senior_Product_Designer.pdf`
 - Não há campo de carta.
 

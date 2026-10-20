@@ -21,6 +21,7 @@ produtos de blockchain**, que não está no seu currículo. Por isso a prioridad
 assinatura de transação, swap, bridge, gas e estados de transação.
 
 ## Arquivos para anexar
+
 - Currículo: `01_VAGAS/27_DefuseLabs_NEAR_Senior_Product_Designer/Espedito_Roza_Senior_Product_Designer.pdf`
 - Não há campo de carta.
 

@@ -17,6 +17,7 @@ e trabalho com POs em squads. **Diferencial: projetos na área da saúde (hospit
 produtos médicos. Isso é exatamente o diferencial que eles pedem.
 
 ## Arquivos para anexar
+
 - Currículo: `01_VAGAS/30_GX2_UIUX_Designer_Senior/Espedito_Roza_Product_Designer_Senior.pdf`
 
 ## Passo a passo do formulário

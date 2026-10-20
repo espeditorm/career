@@ -17,6 +17,7 @@ Figma, design thinking/Lean UX, sistemas web e **conhecimento de motion design**
 abaixo é honesta. Motion design não está no seu currículo.
 
 ## Arquivos para anexar
+
 - Currículo (campo "Resume (file)", obrigatório): `01_VAGAS/31_Zuri_Product_Designer_Senior/Espedito_Roza_Product_Designer_Senior.pdf`
 - Foto: opcional
 

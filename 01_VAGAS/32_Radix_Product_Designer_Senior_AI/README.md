@@ -20,12 +20,14 @@ Codex, AI Studio e Figma Make, tem HTML/CSS, trabalha em inglês e já traduziu 
 protótipo feito com IA, vale incluir antes de enviar ou levar um para a entrevista.
 
 ## Arquivos para anexar
+
 - Currículo: `01_VAGAS/32_Radix_Product_Designer_Senior_AI/Espedito_Roza_Product_Designer_Senior.pdf`
 
 ## Passo a passo do Easy Apply (LinkedIn)
 Entre no LinkedIn, abra o link e clique em **Candidatura simplificada**. O formulário tem de 2 a 4 telas:
 
 **Tela 1: Informações de contato**
+
 | Campo | Resposta |
 |---|---|
 | E-mail | espedito.mesquita@gmail.com |
