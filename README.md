@@ -3,7 +3,9 @@
 ## Status atual
 - ✅ `00_BASE/curriculo/`: currículo atualizado em **inglês** e **português** (PDF para enviar, DOCX para editar).
 - ✅ `00_BASE/respostas_padrao.md`: respostas prontas para perguntas comuns (salário, visto, "tell us about yourself" etc.).
-- ⏳ `02_LEADS_A_VALIDAR.md`: 26 vagas encontradas, **ainda não validadas** (a rede desta sessão bloqueava os sites de vagas).
+- ✅ `02_LEADS_A_VALIDAR.md`: **nova busca de 20/10/2026**, 13 vagas abertas e conferidas, em ordem de prioridade.
+- ✅ `03_DESCARTADAS.md`: Docplanner (reprovado) e as vagas fechadas ou fora do critério.
+- ✅ `04_ENTREVISTAS/`: feedback da Docplanner e banco de histórias no formato que ela cobrou (problema → prioridade → influência → métrica).
 - ⏳ `01_VAGAS/`: vai receber uma pasta por vaga validada, com o passo a passo completo do formulário.
 
 ## Qual currículo usar
